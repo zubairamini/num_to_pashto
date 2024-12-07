@@ -77,7 +77,11 @@
    
 example
 
-let result = digitToPashtoWord(12045);
+let result = num_to_pashto(12045);
+
+or 
+
+let result = num_to_pashto('۱۲۰۴۵');
 
 console.log(result); // Outputs: "دولس زره پنځه څلویښت"
 
