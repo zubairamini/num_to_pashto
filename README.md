@@ -44,7 +44,7 @@
    - Output: **شل زره**
   
 4. **Special handling for ۸**:  
-   - Input: `20000`  
+   - Input: `۸`  
    - Output: **اته**
 
 ---
