@@ -1,5 +1,7 @@
 # Number Digit to Pashto Words Python
-
+Develop by: Ahmad Zubair Amini 
+Email: zubairamini.cs@gmail.com
+Phone: +93790207331
 `num_to_pashto` is a python function that converts numbers into their equivalent Pashto words. It supports a wide range of numbers, including positive and large values up to billions. The function is ideal for educational tools, financial applications, and Pashto-language user interfaces or A Python library for seamless conversion between Pashto and English numeric formats. It provides utilities for converting numbers, handling numeric translations, and ensuring accurate Pashto digit representation. 
 
 ## Features
@@ -68,7 +70,6 @@
 ## Recommendation
 - Further research is needed to improve and refine Pashto literature related to numbers
 
-- 
 ## Usage
 
 1. Pass the input number to the function like num_to_pashto(20) or num_to_pashto('۲۰').
