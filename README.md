@@ -87,5 +87,23 @@ let result = num_to_pashto('۱۲۰۴۵');
 console.log(result); // Outputs: "دولس زره پنځه څلویښت"
 
 ---
-# num_to_pashto
-A Python library for seamless conversion between Pashto and English numeric formats. It provides utilities for converting numbers, handling numeric translations, and ensuring accurate Pashto digit representation. Developed by Ahmad Zubair Amini
+Pashto Number Conversion
+Python Pashto Number Library
+Convert Numbers to Pashto Words
+Pashto Numeric Translation Tool
+Pashto Numeric Converter Python
+Pashto Language Python Library
+Pashto Digits to Words Conversion
+Python Library for Pashto Digits
+Pashto Numbers API
+Pashto Words for Numbers Python
+Numeric Conversion in Pashto
+Pashto Programming Tools
+Pashto Numbers Converter GitHub
+Pashto Words for Digits
+Pashto Financial Application Tools
+Pashto Number Converter for Developers
+Pashto Counting Words Python
+Python Library for Pashto Counting
+Multilingual Numeric Converter Python
+Pashto Language Tools for Developers
